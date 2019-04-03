@@ -16,4 +16,11 @@
      
      After computing the normal, I added a light source into the scene and use [BRDF equation](https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function) to compute color for each fragment based on generated surface normal. There are four more parameters used here: Ambient Coefficient, Diffuse Coefficient, Secular Coefficient, and Shininess. The lighting source's position can be adjusted, either.
 ### Rendered Result
+
+<p float="left">
+   <img src="/rendered result/angle_1.bmp" alt="render result" width="200" height="200" hspace="30">
+   <img src="/rendered result/angle_2.bmp" alt="render result" width="200" height="200" hspace="30">
+   <img src="/rendered result/angle_3.bmp" alt="render result" width="200" height="200" hspace="30">
+</p> 
+
 ### Related Knowledge
