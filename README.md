@@ -24,3 +24,8 @@
 </p> 
 
 ### Related Knowledge
+
+ - **GLSL**
+ - **Computer Graphic**
+ - **Trigonometric Function**
+ - **Vector Calculus**
