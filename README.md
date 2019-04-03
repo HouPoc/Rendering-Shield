@@ -29,3 +29,11 @@
  - **Computer Graphic**
  - **Trigonometric Function**
  - **Vector Calculus**
+ 
+### How To
+  This project can only work with `Windows`. To demo this project, you firest need to run `glman/glman.exe` and load the main GILB file `src/Shield.glib`. [_glman_](http://web.engr.oregonstate.edu/~mjb/WebMjb/Papers/sigcse07.pdf) is a teaching-ware developed by Professor Mike Bailey and Steve Cunningham in 2006, and it is totally no-harm. After loading `src/Shield.glib`, _glman_ will create a main display window and an user interface with several sidebars that control parameters in this program. You can play with them to see different effects. Note that `src/Shield.vert` and `src/Shield.frag` are vertex shader and fragment shader used in this program, be free to make some changes.  
+  
+  [GLMAN Documentation](http://web.engr.oregonstate.edu/~mjb/cs557/Handouts/glman.pdf)
+  
+  [GLSL Documentation](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.3.30.pdf)
+
